@@ -74,7 +74,7 @@ A planilha foi organizada em formulários específicos:
 - **Informes de Rendimentos:** Registro e controle das fontes de renda
 - **Notas e Registros Adicionais** Espaço destinado a observações e informações complementares
 
-
+![ferramenta](images/tela_AgregadorDeDadosIR.gif)
 
 
 ---
