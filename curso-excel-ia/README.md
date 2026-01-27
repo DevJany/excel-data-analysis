@@ -72,7 +72,7 @@ A declaração do imposto de renda exige o controle de diversas informações, c
 A planilha foi organizada em formulários específicos:
 - **Formulário do Titular:** Cadastro dos dados principais do contribuinte
 - **Informes de Rendimentos:** Registro e controle das fontes de renda
-- **Notas e Registros Adicionais** Espaço destinado a observações e informações complementares
+- **Notas e Registros Adicionais** Espaço destinado aos valores de entrada mês a mês
 
 ![ferramenta](images/tela_AgregadorDeDadosIR.gif)
 
