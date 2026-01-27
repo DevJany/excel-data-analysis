@@ -18,14 +18,6 @@ O desafio propõe a criação de uma planilha capaz de responder às principais 
 
 ---
 
-O desafio propõe a criação de uma planilha capaz de responder às principais dúvidas de investidores iniciantes, como:
-- Quanto investir mensalmente?
-- Por quanto tempo investir?
-- Qual o impacto da taxa de rendimento no longo prazo?
-- Qual patrimônio pode ser acumulado ao final do período?
-
----
-
 ## Funcionalidades
 
 - **Sugestão de valor de investimento com base no salário**
