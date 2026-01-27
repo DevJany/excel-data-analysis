@@ -5,7 +5,7 @@ Os projetos têm como foco a aplicação prática do Excel para análise de dado
 
 ---
 
-## Simulador de Controle de Investimentos
+## 1 - Simulador de Controle de Investimentos
 
 ### Contexto do Desafio
 Este projeto foi desenvolvido com o objetivo de aplicar os conceitos de Excel na construção de uma ferramenta funcional e orientada a um problema real: **a simulação de investimentos em fundos imobiliários (FIIs)**.
@@ -41,5 +41,52 @@ O desafio propõe a criação de uma planilha capaz de responder às principais 
 - Automação de cálculos no Excel
 - Organização de dados para simulação financeira
 
-## Arquivo
+## 🖇️Arquivo
 - `Simulador_Controle_de_Investimentos.xlsx`
+
+---
+
+
+## 2 - Agregador de Dados para Declaração de Imposto de Renda
+
+### Contexto do Desafio
+A declaração do imposto de renda exige o controle de diversas informações, como dados do titular, informes de rendimentos e registros adicionais. Pensando nisso, o desafio propôs a criação de uma ferramenta que:
+- Centralize todas essas informações em um único arquivo
+- Reduza erros por meio de validações automáticas
+- Ofereça uma interface amigável, com menus e navegação intuitiva
+
+---
+
+## Funcionalidades
+
+- Menu interativo com botões de navegação
+- Telas organizadas por formulário, facilitando o preenchimento
+- Validação automática de dados para evitar erros de entrada
+- Formatação de campos para padronização das informações
+- Links rápidos para navegação entre as seções
+
+---
+
+## Estrutura da Ferramenta
+
+A planilha foi organizada em formulários específicos:
+- **Formulário do Titular:** Cadastro dos dados principais do contribuinte
+- **Informes de Rendimentos:** Registro e controle das fontes de renda
+- **Notas e Registros Adicionais** Espaço destinado a observações e informações complementares
+
+
+
+
+---
+
+### Conceitos e Recursos Aplicados
+- Formatação condicional
+- Validação de dados
+- Criação de botões e menus interativos
+- Organização lógica das informações
+- Automação de processos dentro do Excel
+
+## 🖇️Arquivo
+- `Agregador_de_Dados_IR.xlsx`
+
+---
