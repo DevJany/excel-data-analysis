@@ -42,7 +42,8 @@ O desafio propõe a criação de uma planilha capaz de responder às principais 
 - Organização de dados para simulação financeira
 
 ## 🖇️Arquivo
-- `Simulador_Controle_de_Investimentos.xlsx`
+#### [➡️ Clique aqui para abrir a planilha](Simulador_Controle_de_Investimentos.xlsx)
+
 
 ---
 
@@ -66,7 +67,7 @@ A declaração do imposto de renda exige o controle de diversas informações, c
 - Links rápidos para navegação entre as seções
 
 
-## Estrutura da Ferramenta
+## Estrutura
 
 A planilha foi organizada em formulários específicos:
 - **Formulário do Titular:** Cadastro dos dados principais do contribuinte
@@ -84,7 +85,7 @@ A planilha foi organizada em formulários específicos:
 - Automação de processos dentro do Excel
 
 ## 🖇️Arquivo
-- `Agregador_de_Dados_IR.xlsx`
+#### [➡️ Clique aqui para abrir a planilha](Agregador_de_Dados_IR.xlsx)
 
 ---
 
@@ -105,7 +106,7 @@ Recebemos uma base com dados inconsistentes e valores faltantes, e o desafio foi
 - Dashboard interativo
 - Proteção da planilha, permitindo apenas interação nos filtros
 
-## Estrutura do Projeto
+## Estrutura
 - Bases – tabela corrigida e padronizada
 - Cálculos – resumo das métricas principais
 - Dashboard – painel com gráficos e indicadores
@@ -123,7 +124,8 @@ Recebemos uma base com dados inconsistentes e valores faltantes, e o desafio foi
 - Proteção e usabilidade
 
 ## 🖇️Arquivo
-- `Dashboard_Vendas_Xbox.xlsx`
+#### [➡️ Clique aqui para abrir o Dashboard](Dashboard_Vendas_Xbox.xlsx)
+
 
 ---
 
