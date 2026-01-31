@@ -123,7 +123,7 @@ Recebemos uma base com dados inconsistentes e valores faltantes, e o desafio foi
 - Proteção e usabilidade
 
 ## 🖇️Arquivo
-- `Dashorad_Vendas_Xbox.xlsx`
+- `Dashboard_Vendas_Xbox.xlsx`
 
 ---
 
